@@ -8,7 +8,7 @@
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/php-e-kasir/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/e-kasir/graphs/commit-activity)
 
 ## Features Aplikasi e-Kasir (Kasir Online)
 - Kasir
