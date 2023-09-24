@@ -6,7 +6,7 @@
 <div align="justify">Sistem pos kasir sering kali mencakup perangkat keras dan perangkat lunak yang digunakan untuk mengelola transaksi penjualan, menghitung harga, memproses pembayaran, dan menghasilkan struk atau faktur untuk pelanggan.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/e-kasir/graphs/commit-activity)
 
